@@ -39,5 +39,12 @@ int main()
 }
 /*
 Output
-
+Output
+Please Enter length
+5
+Please Enter width
+5
+Please Enter height
+5
+The Volume Of The Cuboid Is : 125
 */
