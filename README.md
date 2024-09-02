@@ -157,4 +157,60 @@ Step 7: Stop
 
 In this experiment, we created a C++ program to store and display information about students using a class and a member function. We learned how to define a class, create objects, assign values to data members, and use a member function to display these values.
 
+<br> <p align="center"> <strong>Experiment No 11D</strong> </p>
+
+## Aim
+
+To create a C++ program that calculates and displays the volume of a cuboid using a class with member functions.
+
+## Software Used
+
+- Dev C++
+
+## Theory
+
+<p>
+  In C++, a class is a blueprint for creating objects, and encapsulating data and functions together. In this program, we define a Cuboid class with data members such as l (length), w (width), h (height), and volume. We also define member functions to input the dimensions, calculate the volume, and display the result.
+</p>
+
+## Algorithm
+
+Step 1: Start
+<br>
+Step 2: Define a class Cuboid with the following data members:
+<br>
+l: A float to store the length of the cuboid.
+<br>
+w: A float to store the width of the cuboid.
+<br>
+h: A float to store the height of the cuboid.
+<br>
+volume: A float to store the calculated volume.
+<br>
+Step 3: Create member functions in the Cuboid class:
+<br>
+input(): To input the dimensions of the cuboid.
+<br>
+Volume(): To calculate the volume of the cuboid.
+<br>
+Output(): To display the volume of the cuboid.
+<br>
+Step 4: Create an object of the Cuboid class.
+<br>
+Step 5: Call the input() function to get dimensions from the user.
+<br>
+Step 6: Call the Volume() function to calculate the volume.
+<br>
+Step 7: Call the Output() function to display the volume.
+<br>
+Step 8: Stop
+<br>
+
+## Output
+
+![image](https://github.com/user-attachments/assets/7169d647-547c-4417-839b-8af922a8a1ed)
+
+## Conclusion
+
+In this experiment, we created a C++ program to calculate and display the volume of a cuboid using a class with member functions. We learned how to define a class, use member functions to perform operations, and interact with the user to get input and display results.
 
